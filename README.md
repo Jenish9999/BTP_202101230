@@ -2,8 +2,8 @@
 
 ## ThingSpeak Channels
 
-- [Channel 2944071](https://thingspeak.mathworks.com/channels/2944071)
-- [Channel 2944073](https://thingspeak.mathworks.com/channels/2944073)
-- [Channel 2944074](https://thingspeak.mathworks.com/channels/2944074)
-- [Channel 2944075](https://thingspeak.mathworks.com/channels/2944075)
+- [Channel 2907395](https://thingspeak.mathworks.com/channels/2907395)
+- [Channel 2910526](https://thingspeak.mathworks.com/channels/2910526)
+- [Channel 2912766](https://thingspeak.mathworks.com/channels/2912766)
+- [Channel 2918792](https://thingspeak.mathworks.com/channels/2918792)
 - [Demo Video](https://drive.google.com/file/d/1rclXR9ulNzkeWcK-I6oQm0F1BrUyB-z7/view?usp=drivesdk)
